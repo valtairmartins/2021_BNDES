@@ -1,4 +1,5 @@
 # Data Excellence
+![GitHub](https://img.shields.io/github/license/valtairmartins/BNDES)
 
 [MIT License](https://github.com/valtairmartins/BNDES/blob/main/LICENSE)
 
